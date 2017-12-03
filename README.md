@@ -1,6 +1,6 @@
 # Foundation-SJExtension
 
-My first Foundation example for testing Foundasion functionality in xcode and also GitHub Content Workflow
+My first Foundation example for testing Foundation functionality in xcode and also GitHub Content Workflow
 
 Included functionality:
 
